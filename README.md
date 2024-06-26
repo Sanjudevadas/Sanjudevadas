@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi there! I'm Sanju Devadas, a passionate developer with a knack for creating innovative solutions and exploring new technologies.
 
-<!--
-**Sanjudevadas/Sanjudevadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently working on:   [ReuAds](https://reuads.com/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱   I'm learning MERN and Wordpress
+
+
+💬 Ask me about: React,WordPress
+
+
+📫 How to reach me: sanjudevadas11@gmail.com
+
+
+⚡ Interested in coding and football
