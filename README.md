@@ -4,9 +4,9 @@
 
 👋 Hi there! I'm Sanju Devadas, a passionate developer with a knack for creating innovative solutions and exploring new technologies.
 
-🔭 Currently working in: [ReuAds](https://reuads.com/)
 
-🌱 I'm learning MERN and WordPress
+
+🌱 I'm learning MERN ,PHP Laravel  and WordPress
 
 💬 Ask me about: React, WordPress
 
