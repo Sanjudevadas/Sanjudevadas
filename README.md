@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm **Sanju Devadas**
 
-### Software Developer
+### Web Developer
 
 👋 Hi there! I'm Sanju Devadas, a passionate developer with a knack for creating innovative solutions and exploring new technologies.
 
